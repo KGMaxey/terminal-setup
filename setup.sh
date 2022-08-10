@@ -25,4 +25,3 @@ curl -o $HOME/ https://raw.githubusercontent.com/KGMaxey/terminal-setup/main/.zs
 curl -o $HOME/ https://raw.githubusercontent.com/KGMaxey/terminal-setup/main/.p10k.zsh
 
 source $HOME/.zshrc
-source $HOME/.p10k.zsh
